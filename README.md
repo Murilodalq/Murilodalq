@@ -11,6 +11,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Muri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 </div>
 
 <div align="center">
@@ -29,3 +30,4 @@
 ![snake gif](https://github.com/Murilodalq/Murilodalq/blob/output/github-snake-dark.svg)
 
 </div>
+<img src="https://www.image2url.com/r2/default/gifs/1781823741047-331313c5-d40f-418a-852c-5e5a26398c85.gif">
