@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello there! I am Murilo Dalquano and i am currently working towards my carrer in technology!
 
-<!--
-**Murilodalq/Murilodalq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Murilodalq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilodalq&show_icons=true&theme=transparent&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodalq&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## 💻 Current Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Muri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+## 🌐 Contact
+
+<div>
+  <a href="https://www.linkedin.com/in/murilo-dalquano-santos-61b261360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##  Commits
