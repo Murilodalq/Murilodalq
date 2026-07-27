@@ -1,7 +1,5 @@
 ## 👋 Hello there! I am Murilo Dalquano and i am currently working towards my carrer in technology!
 
-  [![Murilodalq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilodalq&show_icons=true&theme=transparent&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodalq&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center">
 
@@ -30,4 +28,4 @@
 ![snake gif](https://github.com/Murilodalq/Murilodalq/blob/output/github-snake-dark.svg)
 
 </div>
-<img src="https://www.image2url.com/r2/default/gifs/1781823741047-331313c5-d40f-418a-852c-5e5a26398c85.gif">
+
